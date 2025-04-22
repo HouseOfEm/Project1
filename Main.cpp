@@ -1,5 +1,6 @@
 #include <iostream>
-using namespace std;
+#include 'roster.h'
+#include <string> using namespace std;
 
 int main()
 {
